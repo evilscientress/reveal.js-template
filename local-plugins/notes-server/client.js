@@ -1,0 +1,1 @@
+../../plugin/notes-server/client.js
